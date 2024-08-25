@@ -1,4 +1,4 @@
-# Blog
+# Blog（切换Branch之前记得hexo clean掉生成文件！）
 
 Personal blog [Seanote](https://jzhou3083.github.io/Blog2024/) powered with [Hexo](https://hexo.io/zh-cn/).  
 
